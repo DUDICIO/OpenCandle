@@ -1,0 +1,121 @@
+Partlist
+
+Exported from Imagenotifier.sch at 4/12/2016 11:41 AM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                   Device                  Package                Library             Sheet
+
+1        IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+C1       33uF                    CC1206                  C1206                  eagle-ltspice       1
+C2       0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C3       0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C4       4.7                     CAP0805                 0805                   SparkFun-Capacitors 1
+C5       4.7                     CAP0805                 0805                   SparkFun-Capacitors 1
+C6       4.7                     CAP0805                 0805                   SparkFun-Capacitors 1
+C7       0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C8       0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C9       0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C10      0.1uF                   CAP0805                 0805                   SparkFun-Capacitors 1
+C11      22uF                    CAP0805                 0805                   SparkFun-Capacitors 1
+C12      22uF                    CAP0805                 0805                   SparkFun-Capacitors 1
+C13      22                      CAP0805                 0805                   SparkFun-Capacitors 1
+C14      22                      CAP0805                 0805                   SparkFun-Capacitors 1
+C15      0.1uF                   CAP0805                 0805                   SparkFun-Capacitors 1
+C16      10uF                    CAP0805                 0805                   SparkFun-Capacitors 1
+C17      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C18      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C19      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C20      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C21      6.2pF                   CAP0805                 0805                   SparkFun-Capacitors 1
+C22      6.2pF                   CAP0805                 0805                   SparkFun-Capacitors 1
+C23      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C24      1uF                     CAP0805                 0805                   SparkFun-Capacitors 1
+C25      0.47uF                  C                       C0805                  eagle-ltspice       1
+C26      1                       CAP0805                 0805                   SparkFun-Capacitors 1
+C27      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C28      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C29      10uF                    CAP0805                 0805                   SparkFun-Capacitors 1
+C30      0.1                     CAP0805                 0805                   SparkFun-Capacitors 1
+C31      0.1uF                   CAP0805                 0805                   SparkFun-Capacitors 1
+CC3200   Value                   CC3200R1M2RGCR          RGC0064A               CC3200              1
+CRYSTAL  ABS07-32.768KHZ-T       ABS07-32.768KHZ-T       ABS07-32.768KHZ-T      Components          1
+R1                               R                       R0805                  eagle-ltspice       1
+R2       100K                    R                       R0805                  eagle-ltspice       1
+R3       100K                    R                       R0805                  eagle-ltspice       1
+R4       100K                    R                       R0805                  eagle-ltspice       1
+R5                               R                       R0805                  eagle-ltspice       1
+R6                               R                       R0805                  eagle-ltspice       1
+R7                               R                       R0805                  eagle-ltspice       1
+R8                               R                       R0805                  eagle-ltspice       1
+R9                               R                       R0805                  eagle-ltspice       1
+R10                              R                       R0805                  eagle-ltspice       1
+R11                              R                       R0805                  eagle-ltspice       1
+R12                              R                       R0805                  eagle-ltspice       1
+R13                              R                       R0805                  eagle-ltspice       1
+R14                              R                       R0805                  eagle-ltspice       1
+R15                              R                       R0805                  eagle-ltspice       1
+R16                              R                       R0805                  eagle-ltspice       1
+R17                              R                       R0805                  eagle-ltspice       1
+R18                              R                       R0805                  eagle-ltspice       1
+R19                              R                       R0805                  eagle-ltspice       1
+R20                              R                       R0805                  eagle-ltspice       1
+R21                              R                       R0805                  eagle-ltspice       1
+R22                              R                       R0805                  eagle-ltspice       1
+R23                              R                       R0805                  eagle-ltspice       1
+R24                              R                       R0805                  eagle-ltspice       1
+R25                              R                       R0805                  eagle-ltspice       1
+R26                              R                       R0805                  eagle-ltspice       1
+R27                              R                       R0805                  eagle-ltspice       1
+R28                              R                       R0805                  eagle-ltspice       1
+R29                              R                       R0805                  eagle-ltspice       1
+R30                              R                       R0805                  eagle-ltspice       1
+R31                              R                       R0805                  eagle-ltspice       1
+R32                              R                       R0805                  eagle-ltspice       1
+R33      100k                    R                       R0805                  eagle-ltspice       1
+R34      100k                    R                       R0805                  eagle-ltspice       1
+R35      2.7k                    R                       R0805                  eagle-ltspice       1
+R36      100k                    R                       R0805                  eagle-ltspice       1
+SV1                              FE05-1                  FE05-1                 con-lsta            1
+U$1      IND1UH1008P             IND1UH1008P             1008IND2.2UH           Components          1
+U$2      IND2.6UH1008P           IND2.6UH1008P           1008IND2.2UH           Components          1
+U$3      IND2.6UH1008P           IND2.6UH1008P           1008IND2.2UH           Components          1
+U$5      Q24FA20H00396           Q24FA20H00396           Q24FA20H00396          Components          1
+U$6      FLASHM25PX80            FLASHM25PX80            SO08                   Components          1
+U$7      LM3940                  LM3940                  MP04A                  Components          1
+U$8      DEA202450BT-1294C1-H    DEA202450BT-1294C1-H    DEA202450BT-1294C1-H   Components          1
+U$9      IND3.6NH402P            IND3.6NH402P            0402INDUCTOR3.6NH      Components          1
+U$10     ANTENNAE-AH316M245001-T ANTENNAE-AH316M245001-T ANTENNA-AH316M245001-T Components          1
+U$11     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$12     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$13     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$14     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$15     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$16     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$17     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$18     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$19     RGBLED                  RGBLED                  0.25WATT_RGB_THROUGH   Components          1
+U$20     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$22     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$23     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$24     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$25     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$26     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$27     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$28     IRTRANS                 IRTRANS                 IRTRANSCIEVER          Components          1
+U$29     IRREC                   IRREC                   IRREIVER               Components          1
+U$31     IRREC                   IRREC                   IRREIVER               Components          1
+U$33     IRREC                   IRREC                   IRREIVER               Components          1
+U$35     IRREC                   IRREC                   IRREIVER               Components          1
+U$37     IRREC                   IRREC                   IRREIVER               Components          1
+U$39     IRREC                   IRREC                   IRREIVER               Components          1
+U$41     IRREC                   IRREC                   IRREIVER               Components          1
+U$43     IRREC                   IRREC                   IRREIVER               Components          1
+U$44     IRREC                   IRREC                   IRREIVER               Components          1
+U1       TLC5941_RHB_32          TLC5941_RHB_32          RHB32_3P15X3P15        Components          1
+U2       TLC5941_RHB_32          TLC5941_RHB_32          RHB32_3P15X3P15        Components          1
+U3                               USB""                   USB-MICRO-SMD          MicroUSB            1
+U5       ADS7961_RHB_32          ADS7961_RHB_32          RHB32_2P7X2P7          Components          1
+U6       REF5025_D_8             REF5025_D_8             D8                     Components          1
